@@ -1,7 +1,7 @@
 JsonpData({
     "lines":[
         {
-            "title":"*A线路-主线路",
+            "title":"*暴力熊 v1.0",
             "host":"https://blx.appdvd.com"
         }
     ]
