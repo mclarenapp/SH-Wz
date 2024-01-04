@@ -3,6 +3,10 @@ JsonpData({
         {
             "title":"*暴力熊 v1.0",
             "host":"https://blx.appdvd.com"
+        },
+        {
+            "title":"*北极星 v1.0",
+            "host":"https://bjx.appdvd.com"
         }
-    ]
+]
 })
