@@ -2,7 +2,7 @@ JsonpData({
     "lines":[
         {
             "title":"*A线路-主线路",
-            "host":"http://104.160.178.203:666"
+            "host":"http://blx.appdvd.com"
         }
     ]
 })
