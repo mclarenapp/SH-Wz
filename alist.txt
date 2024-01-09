@@ -1,20 +1,52 @@
 JsonpData({
     "lines":[
         {
-            "title":"*暴力熊 v1.0",
-            "host":"https://blx.appdvd.com"
+            "title":"*北极星-推荐线路-首选",
+            "host":"http://bjx1.dian668.com"
         },
         {
-            "title":"*北极星 v1.0",
-            "host":"https://bjx.appdvd.com"
+            "title":"*北极星-临时线路-备用",
+            "host":"http://122.228.8.126:555"
         },
         {
-            "title":"*暴力熊-推荐 v1.0",
-            "host":"http://blx1.dian668.com"
+            "title":"*淘金者-推荐线路-首选",
+            "host":"http://tjz1.dian668.com"
         },
         {
-            "title":"*暴力熊-备用 v1.0",
-            "host":"http://blx1.dian668.com"
+            "title":"*淘金者-临时线路-备用",
+            "host":"http://122.228.8.166:999"
+        },
+        {
+            "title":"*取款机-推荐线路-首选",
+            "host":"http://qkj1.dian668.com"
+        },
+        {
+            "title":"*取款机-临时线路-备用",
+            "host":"http://122.228.8.204:2828"
+        },
+        {
+            "title":"*小霸王-推荐线路-首选",
+            "host":"http://xbw1.dian668.com"
+        },
+        {
+            "title":"*小霸王-临时线路-备用",
+            "host":"http://115.223.43.2:3737"
+        },
+        {
+            "title":"*天启-推荐线路-首选",
+            "host":"http://tq1.dian668.com"
+        },
+        {
+            "title":"*天启-临时线路-备用",
+            "host":"http://115.223.43.7:4848"
+        },
+        {
+            "title":"*圣罗兰-推荐线路-首选",
+            "host":"http://qkj1.dian668.com"
+        },
+        {
+            "title":"*圣罗兰-临时线路-备用",
+            "host":"http://115.223.43.14:5959"
         }
 ]
 })
