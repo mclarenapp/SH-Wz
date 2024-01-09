@@ -11,6 +11,10 @@ JsonpData({
         {
             "title":"*暴力熊-推荐 v1.0",
             "host":"http://blx1.dian668.com"
+        },
+        {
+            "title":"*暴力熊-备用 v1.0",
+            "host":"http://blx1.dian668.com"
         }
 ]
 })
