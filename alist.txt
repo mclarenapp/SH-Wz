@@ -7,6 +7,10 @@ JsonpData({
         {
             "title":"*北极星 v1.0",
             "host":"https://bjx.appdvd.com"
+        },
+        {
+            "title":"*暴力熊-推荐 v1.0",
+            "host":"http://blx1.dian668.com"
         }
 ]
 })
